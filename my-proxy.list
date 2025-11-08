@@ -52,6 +52,12 @@ DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 
+# Google AI APIs (extra)
+DOMAIN,geller-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+
 # Notion
 DOMAIN,api.notion.com
 DOMAIN-SUFFIX,img.notionusercontent.com
