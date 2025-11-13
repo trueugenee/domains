@@ -99,6 +99,10 @@ DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,discordapp.io
 DOMAIN-SUFFIX,discordcdn.com
 
+# Discord Voice — порты
+DST-PORT,3478-3497,PROXY
+DST-PORT,50000-65535,PROXY
+
 # YouTube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
