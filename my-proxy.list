@@ -75,6 +75,8 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
 
 # Discord
+DOMAIN,gateway.discord.gg
+DOMAIN,voice.discord.gg
 DOMAIN-SUFFIX,flowith.io
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discord.co
