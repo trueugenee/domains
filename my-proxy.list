@@ -74,6 +74,10 @@ DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
 
+# Discord Voice — порты
+DST-PORT,3478-3497,PROXY
+DST-PORT,50000-65535,PROXY
+
 # Discord
 DOMAIN,gateway.discord.gg
 DOMAIN,voice.discord.gg
@@ -100,10 +104,6 @@ DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,discordapp.io
 DOMAIN-SUFFIX,discordcdn.com
-
-# Discord Voice — порты
-DST-PORT,3478-3497,PROXY
-DST-PORT,50000-65535,PROXY
 
 # YouTube
 DOMAIN-SUFFIX,ggpht.cn
